@@ -22,7 +22,7 @@
 <a href="https://twitter.com/KhyruddinKH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khyruddinkh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khyruddin-hashanulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khyruddin-hashanulla" height="30" width="40" /></a>
 <a href="https://instagram.com/khyruddin.kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khyruddin.kh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Dev Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev help" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@Dev-Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev help" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khyruddin-hashanulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khyruddin-hashanulla" height="30" width="40" /></a>
 </p>
 
