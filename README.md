@@ -83,7 +83,7 @@ Git • GitHub • AWS • Linux • TensorFlow • Flutter • Figma
 </a>
 
 <a href="https://youtube.com/@khyruddinkh?si=XSN6IUolWFoKiqBp">
-<img height="50" src="https://cdn.simpleicons.org/youtube/FF0000"/>
+<img height="60" src="https://cdn.simpleicons.org/youtube/FF0000"/>
 </a>
 
 </p>
