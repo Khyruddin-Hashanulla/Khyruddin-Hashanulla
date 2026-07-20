@@ -70,19 +70,19 @@ Git • GitHub • AWS • Linux • TensorFlow • Flutter • Figma
 
 <p align="left">
 
-<a href="https://linkedin.com/in/khyruddin-hashanulla">
+<a href="https://www.linkedin.com/in/khyruddin-hashanulla">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com/KhyruddinKH">
+<a href="https://x.com/khyruddinkh?s=11">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-<a href="https://instagram.com/khyruddin.kh">
+<a href="https://www.instagram.com/khyruddinhashanulla?igsh=dzhlbTl3aDZhYW9p&utm_source=qr">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://youtube.com/@devndebug">
+<a href="https://youtube.com/@khyruddinkh?si=XSN6IUolWFoKiqBp">
 <img src="https://cdn.simpleicons.org/youtube/FF0000"/>
 </a>
 
