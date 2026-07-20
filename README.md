@@ -83,7 +83,7 @@ Git • GitHub • AWS • Linux • TensorFlow • Flutter • Figma
 </a>
 
 <a href="https://youtube.com/@khyruddinkh?si=XSN6IUolWFoKiqBp">
-<img height="170" src="https://cdn.simpleicons.org/youtube/FF0000"/>
+<img height="70" src="https://cdn.simpleicons.org/youtube/FF0000"/>
 </a>
 
 </p>
@@ -104,14 +104,6 @@ Your support helps me:
 ---
 
 ## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khyruddin-hashanulla&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyruddin-hashanulla&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
